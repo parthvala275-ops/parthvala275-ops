@@ -1,48 +1,58 @@
-# Hi 👋, I'm Parthvala275-ops
-
-🎓 Final Year Student | 💻 Web Developer | 🚀 Tech Enthusiast
-
----
-
-## 👨‍💻 About Me
-- 🎓 Final Year Computer Science Student
-- 🌐 Interested in Web Development & Software Engineering
-- 🔭 Currently working on **Web-Based Online Service Management System**
-- 🌱 Learning **React, Node.js & Cloud Technologies**
-- 📫 Reach me at: **your-email@gmail.com**
+<h1 align="center">Hi 👋, I'm Parth</h1>
+<h3 align="center">Final Year Student | Web Developer | Software Enthusiast</h3>
 
 ---
 
-## 🛠️ Skills & Technologies
-- **Languages:** HTML, CSS, JavaScript, Python, C#
-- **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS
-- **Backend:** ASP.NET, Node.js
-- **Database:** MySQL, SQL Server
-- **Tools:** Git, GitHub, VS Code
+### 👨‍💻 About Me
+- 🎓 Final Year Computer Science / IT Student  
+- 💻 Passionate about Web & Software Development  
+- 🌱 Currently learning Full Stack Development  
+- 🚀 Interested in real-world projects & internships  
 
 ---
 
-## 📌 Projects
-### 🔹 SmartServe Solutions – Service Management System
-- Web-based platform for managing service requests
-- Features: User Login, Service Tracking, Admin Panel, Online Payments
-
-### 🔹 Employee Management System
-- CRUD operations using ASP.NET & SQL Server
-- Admin and User roles
-
----
-
-## 📊 GitHub Stats
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
----
-
-## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- 🌐 Portfolio: https://yourportfolio.com
-- 📧 Email: your-email@gmail.com
+### 🛠️ Coding Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+</p>
 
 ---
 
-⭐ *If you like my work, consider giving a star!* ⭐
+### 📂 Projects
+- 🔧 Online Service Management System  
+- 👕 Garments Management Website  
+- 🎟️ Movie Ticket Booking System (ASP.NET)  
+- 🧑‍💼 Employee Management System  
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+</p>
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: yourmail@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 🌐 Portfolio: https://yourwebsite.com  
+
+---
+
+⭐ *Thank you for visiting my GitHub profile!*

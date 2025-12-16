@@ -38,12 +38,14 @@
 ---
 
 ### 📈 GitHub Stats
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=parthvala275-ops&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthvala275-ops" />
 </p>
 
 ---
